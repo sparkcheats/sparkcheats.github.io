@@ -1,0 +1,22 @@
+{
+	"loader_version": "1.5",
+	"announcement": "Updated PUBGM Hack to v1.12, Added Direct Key Paste Support",
+	"plugins": [
+		{
+			"id": "pubg32",
+			"name": "PUBGM 32bit Hack",
+			"version": "1.12",
+			"bin_url": "https://sparkcheats.tk/plug/pubg/1.12/SPGM13_arm",
+			"app_url": "https://sparkcheats.tk/plug/pubg/1.12/plugin_pubg_13.apk",
+			"safe": true
+		},
+		{
+			"id": "pubg64",
+			"name": "PUBGM 64bit Hack",
+			"version": "1.12",
+			"bin_url": "https://sparkcheats.tk/plug/pubg/1.12/SPGM13_arm64",
+			"app_url": "https://sparkcheats.tk/plug/pubg/1.12/plugin_pubg_13.apk",
+			"safe": true
+		}
+	]
+}
